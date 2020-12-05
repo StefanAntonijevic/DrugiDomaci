@@ -1,0 +1,58 @@
+body{
+   background-image: url(https://cdn.bmwblog.com/wp-content/uploads/2015/10/m4-gts-1920x1200-03-750x469.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+
+
+
+.conteiner{
+    width: 80%;
+    
+  }
+h1{
+    text-align: center;
+}
+.m_1{
+    width: 40%;
+    float: left;
+    padding-left: 10px;
+
+}
+.m_2{
+    width: 40%;
+    float:right;
+    padding-right: 10 px;
+}
+.Pozadina1{
+
+    margin-bottom: 500px;
+    
+}
+/*za telefon*/
+@media screen and (max-width:800px) {
+
+    .m_1{
+        width: 100%;
+        float:right;
+        padding-right: 10px;
+    }
+
+    .m_2{
+        width: 100%;
+        float:right;
+        padding-right: 10px;
+        margin-bottom: 40px;
+    }
+   
+    footer{
+        text-align: center;
+    }
+
+}
+

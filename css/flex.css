@@ -1,0 +1,33 @@
+.Roditelj div{
+    background-color: white;
+    margin: 60px;
+   
+  
+}
+
+
+.Roditelj{
+    
+   
+    display: flex;
+    background-color: rgb(134, 115, 115);
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-items: center;
+    padding: 50px;
+    
+    
+
+}
+
+#div1{
+    text-align: center;
+  
+}
+
+
+  
+  
+    
+
+

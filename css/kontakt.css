@@ -1,0 +1,12 @@
+body{
+   
+    background-color: rgb(134, 115, 115)
+    
+}
+.Pozadina{
+    margin-bottom: 500px;
+}
+
+nav{
+    position: fixed;
+}

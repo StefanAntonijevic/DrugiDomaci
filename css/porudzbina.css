@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(134, 115, 115)
+}
+
+.Tekst{
+    color:black;
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+}
+
+.popunjavanjePolja{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 30px;
+    color: yellowgreen;
+}
+h3{
+    font-size: 30px;
+    color: red;
+}
+nav{
+  position: sticky;
+}
